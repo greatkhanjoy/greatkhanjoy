@@ -12,8 +12,7 @@
         <a href="https://www.fiverr.com/greatkhanjoy?up_rollout=true"><img src="https://img.shields.io/badge/Fiverr-Fiverr-green" alt="Fiverr" /></a>
          <a href="https://www.facebook.com/princeimrankhanjoy"><img src="https://img.shields.io/badge/F-Facebook-blue" alt="facebook" /></a>
         
-        
-    </div>
+
     
    Full-stack Web Application developer, Back-End Engineer, Problem Solver and Freelancer.
 I specialize in Node.js, Laravel, WordPress, Shopify  and I have experience working with Vue and React.
