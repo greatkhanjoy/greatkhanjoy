@@ -1,6 +1,8 @@
 # Imran Hosein Khan Joy · mistGeek
 
-I build React/Next.js applications, business websites and backend APIs for startups and small businesses.
+**Senior Full-Stack Software Engineer**
+
+I build business websites, SaaS applications and backend APIs for startups and businesses.
 
 Based in Bangladesh and available for international remote freelance projects. My experience spans **13+ years**, **2,000+ completed projects** and **1,800+ clients**.
 
