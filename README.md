@@ -21,6 +21,10 @@ Based in Bangladesh and available for international remote freelance projects. M
 - [Hello Seba](https://mistgeek.com/projects/hello-seba): healthcare platform
 - [More projects](https://mistgeek.com/projects)
 
+## Recent writing
+
+- [Small Business Website Checklist](https://mistgeek.com/blog/small-business-website-checklist): service pages, mobile inquiries, technical SEO and a practical handover.
+
 ## Technology
 
 React · Next.js · TypeScript · Node.js · NestJS · PostgreSQL · Prisma · Redis · WordPress · Tailwind CSS · Docker
